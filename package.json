@@ -1,0 +1,22 @@
+{
+  "name": "aula-1---bakcend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BistonN/Aula-1---Bakcend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BistonN/Aula-1---Bakcend/issues"
+  },
+  "homepage": "https://github.com/BistonN/Aula-1---Bakcend#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
